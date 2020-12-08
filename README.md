@@ -1,4 +1,4 @@
 # ProjetProgSystWPF
 
-Ps : travail sur Dev Azure
+Ps : Projet sur Dev Azure
      Racine Git
